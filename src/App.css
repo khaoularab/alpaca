@@ -29,11 +29,6 @@
 	z-index: 10;
 }
 
-.ears,
-.hair {
-	z-index: 0;
-}
-
 .btn {
 	font-family: inherit;
 	display: inline-block;
